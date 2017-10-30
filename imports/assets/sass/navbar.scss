@@ -1,0 +1,10 @@
+@import "./_custom.scss";
+
+.gk-navbar {
+  background-color: $brand-primary;
+}
+
+.gk-navbar a,
+.navbar-toggler {
+  color: white;
+}
